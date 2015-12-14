@@ -5,6 +5,7 @@ int main (void)
 {
     int n;
     printf ("Input height:\n");
+    
     do
     {
         n = GetInt();
